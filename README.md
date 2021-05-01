@@ -9,5 +9,5 @@ cd PyGame-Learning-Environment
 pip3 install -e .
 
 The project consits of implementing a Policy Gradient algorithm that learns to play Pong.
-We achieved that through learning a policy function $\pi(a|s)$ which selects the best action a to pick given a state s and a Value function V(s) 
+We achieved that through learning a policy function π(a|s) which selects the best action a to pick given a state s and a Value function V(s) 
 that predicts the expected reward of that state s. 
