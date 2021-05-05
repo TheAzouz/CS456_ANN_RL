@@ -10,4 +10,4 @@ pip3 install -e .
 
 The project consits of implementing a Policy Gradient algorithm that learns to play Pong.
 We achieved that through learning a policy function π(a|s) which selects the best action a to pick given a state s and a Value function V(s) 
-that predicts the expected discounted reward of that state s. 
+that predicts the total expected discounted reward starting at state s. 
