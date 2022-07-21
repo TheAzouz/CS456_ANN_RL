@@ -1,4 +1,4 @@
-# CS456_ANN_RL_Pong
+# EPFL course CS456 (Artificial Neural Networks): Reinforcement learning with Pong
 
 you will need to install Pygame, Pillow, and the PyGame Learning Environment. To do so, the easiest workflow to follow is:
 
